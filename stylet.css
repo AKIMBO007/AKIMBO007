@@ -1,0 +1,69 @@
+.div{
+    position: relative;
+   
+
+}
+.div2{
+    background-color: cornflowerblue;
+    
+    left: 90px;
+    position: relative;
+    bottom: 800px;
+    left: 1010px;
+    width: 120px;
+    z-index: 2;
+    
+}
+.text{
+    position: relative;
+    top: 450px;
+    z-index: 1;
+}
+.tpass{
+    position: relative;
+    left: 30px;
+    top: 40px;
+}
+.div4{
+    position: relative;
+    display: flex   ;
+}
+.tre{
+    position: relative;
+    text-align: center;
+}
+.tort{
+    position: relative;
+    display: flex;gap: 50px;
+    left: 200px;
+    bottom: 10px    ;;
+}
+.img{
+    position: relative;
+    display: flex;gap: 50px;
+    left: 200px;
+}
+.twq{
+    
+}
+.hgf{
+    background-color: cadetblue;
+    width: 1076px;
+    height: 802px;
+    top: 2259px;
+    left: -2px;
+    text-align: center;
+}
+.style{
+    background-color: aliceblue;
+    left: 45px;
+}
+.clas{
+    position: relative;
+    z-index: 1;
+}
+.class{
+    position:absolute;
+    z-index: 2;
+    bottom: 8000px;
+}

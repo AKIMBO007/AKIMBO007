@@ -1,0 +1,112 @@
+.logo{
+   
+}
+.img{
+    position: relative;
+    left: 300px;
+    z-index: 1;
+}
+.tex{
+    position: absolute;
+    z-index: 2;
+    top: 600px;
+}
+.text{
+    position: absolute;
+    left: 1007px;
+    background-color: black;
+    color: white;
+    top: 50px;
+    text-align: center;
+    width: 265px;
+    height: 780px;
+}
+.div{
+    display: flex;
+    text-align: center;
+}
+.pas{
+    position: relative;
+    display: flex;
+    background-color: aliceblue;
+    
+}
+.gfd{
+    position: relative;
+    display: flex;
+    background-color: aliceblue;
+    width:500px;
+    left: 200px;
+    left: 200px;
+}   
+.katta{
+    position: relative;
+    display: flex;
+}
+.kaatta{
+    position: relative;
+    display: flex;
+    background-color: aliceblue;
+    width: 500px;
+    left: 100px;
+    top: 34px;
+}
+.GAP{
+    position: absolute;
+    display: flex;
+    background-color: aliceblue;
+    width: 500px;
+    left: 30px;
+    left: 710px;
+    top: 1620px;
+    
+}
+.kaaatta{
+    position: relative;
+    display: flex;
+    background-color: aliceblue;   
+}
+.pdf{
+    background-color: wheat;
+    width: 300px;
+}
+.tre{
+    
+    background-color: burlywood;
+    position: relative;
+    width: 1100px;
+    text-align: center;
+}
+.te{
+    position: relative;
+    display: flex;
+    left: 120px;
+    bottom: 10px;
+}
+.se{
+    position: relative;
+    display: flex;
+}
+.df{
+    position: relative;
+    left: 34px;
+    
+}
+.sa{
+    position: relative;
+    display: flex;
+}
+.ds{
+
+}
+.trew{
+    position: relative;
+    left: 345px;
+    bottom: 500px;
+}
+.ketta{
+    background-color:cornflowerblue ;
+    width: 300px;
+    left: 47px;
+    
+}

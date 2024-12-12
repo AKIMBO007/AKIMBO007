@@ -1,0 +1,152 @@
+.nav{
+    position: relative;
+    left: 500px;
+    bottom: 20px; 
+}
+.navbar
+{
+    display: flex;
+    position: relative;
+    left: 700px;
+}
+.navbar a{
+    padding: 10px 15px;
+}
+.not{
+    bottom: 600px;
+}
+.qator{
+    display: flex;
+}
+.rasm{
+display: flex;
+  
+   
+}
+.rasm2{
+    
+}
+.rasm4{
+    z-index: 3;
+    position: absolute;
+    left: 80px;
+}
+.rasm3{
+    z-index: 1;
+    position: absolute;
+}
+.rasm5{
+    position: relative;
+    left: 515px;
+    bottom: 27px;
+    z-index: 2;
+}
+.joji{
+    display: flex;
+}
+.grup{
+    text-align: center;
+    
+}
+.gar{
+    text-align: center;
+}
+.tre{
+    background-color: blue;
+    color: aliceblue;
+    width: 90px;
+    height: 70px;
+}
+.tyu{
+    height: 50px;
+    text-align: center;
+    border: white;
+    background-color: wheat;
+}
+.rew{
+    background-color: blue;
+}
+.tyui{
+    position: relative;
+    left: 334px;
+    bottom: 200px;
+    width: 100px;
+}
+.tugadi{
+    z-index: 2;
+    position: absolute;
+}
+.boshi{
+    z-index: 1;
+    position: absolute;
+}
+.hjk{
+    word-spacing: 100px;
+    position: relative;
+    left: 00px;
+    background-color:black;
+    height: 400px;
+
+    
+}
+.wert{
+    position: relative;
+    left: 120px;
+}
+.gfd{
+    
+    position: relative;
+    top: 134px;
+    width: 545px;
+    left: 300px;
+}
+.bnm{
+    color: azure;
+    position: relative;
+    left: 700px;
+    bottom: 450px;
+    
+}
+.nm{
+    position: relative;
+    width: 
+}
+.src{
+    position: relative;
+    right: 300px;
+    bottom: 100px;
+}
+.gro{
+    position: relative;
+    left: 950px;
+    bottom: 35px;
+    z-index: 2;
+}
+.yui{
+    position: relative;
+    left: 720px;
+    bottom: 100px;
+    z-index: 1;
+}
+.fgh{
+    position: relative;
+    bottom: 270px;
+}
+.qwe{
+    position: relative;
+    bottom: 300px;
+    right: 300px;
+}
+.xus{
+    position: relative;
+    left: 60px;
+}
+.but{
+    height: 40px;
+    width:80px;
+    background-color:black;
+    color: aliceblue;
+}
+.uyt{
+    color: aqua;
+}
